@@ -1,0 +1,14 @@
+hello = "Hello World" #створює змінну
+name = "Artem" 
+lastname = "<Duchuk" 
+age = 16 
+
+print(hello) #Виводить значення змінної
+print(name) 
+print(lastname) 
+print(age) 
+
+print(type(hello)) #Виводить значення змінної
+print(type(name)) 
+print(type(lastname)) 
+print(type(age)) 
